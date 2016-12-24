@@ -1,0 +1,158 @@
+*{
+margin: 0;
+padding: 0;
+font-family: Khmer UI;
+}
+ul.nav1 {
+list-style-type: none;
+position: absolute;
+width: 760px;
+float: left;
+/*FIX CENTER IM LOSING MY MIND*/
+top: 35px;
+margin-left: 300px;
+margin-right: auto;
+
+}
+a.hnav {
+padding-top: 25px;
+display: block;
+text-decoration: none;
+width: 150px;
+height: 45px;
+text-align: center;
+border-radius: 10px;
+color: #fff;
+transition: all .5s ease;
+font-family: Walkway;
+font-size: 20px;
+font-weight: bold;
+}
+a:hover {
+background-color: #fff;
+color: #6d6e70;
+}
+li.hnav {
+width: 150px;
+height: 70px;
+float: left;
+font-family: Arial;
+}
+#nav1 {
+float: left;
+position: relative;
+background-color: #6d6e70;
+top: 70px;
+width: 100%;
+height: 50px;
+border: 1px solid #fff;
+}
+ul.nav2 {
+list-style-type: none;
+position: absolute;
+width: 900px;
+
+float: left;
+/*FIX CENTER IM LOSING MY MIND*/
+margin-left: 250px;
+margin-right: auto;
+}
+a.hnav2:hover{
+color: #6d6e70;
+background-color: white;
+}
+a.hnav3:hover{
+color: #6d6e70;
+background-color: white;
+}
+a.hnav2 {
+display: block;
+text-decoration: none;
+width: 100px;
+height: 30px;
+text-align: center;
+border-radius: 10px;
+color: white;
+transition: all .5s ease;
+font-family: Walkway;
+font-size: 10px;
+font-weight: bold;
+padding-top: 20px;
+}
+a.hnav3 {
+display: block;
+text-decoration: none;
+width: 100px;
+height: 40px;
+text-align: center;
+border-radius: 10px;
+color: white;
+transition: all .5s ease;
+font-family: Walkway;
+font-size: 10px;
+font-weight: bold;
+padding-top: 10px;
+}
+#topbar {
+width: 100%;
+height: 140px;
+background-color: #6d6e70;
+}
+#nav {
+float: left;
+width: 100%;
+}
+#logo {
+width: 157px;
+height: 140px;
+left: 30px;
+position: absolute;
+}
+#bannerpic {
+width: 100%;
+}
+#bannerdiv {
+width: 100%;
+height: 100px;
+overflow: hidden;
+z-index: 99;
+}
+#content {
+width: 800px;
+height: 2000px;
+background-color: #d3d3d3;
+margin: auto;
+padding: 30px;
+}
+img.centerimg{
+margin: auto;
+position: relative;
+}
+p.small {
+font-size: 12px;
+}
+div.container {
+width: 800px;
+height: 2000px;
+background-color: #d3d3d3;
+margin: auto;
+padding: 30px;
+}
+div.right{
+width: 335px;
+height: 500px;
+padding: 30px;
+float: left;
+}
+div.left {
+width: 335px;
+height: 500px;
+padding: 30px;
+float: left;
+}
+div.frame_table{
+Margin: auto;
+width: 400px;
+height: 1000px;
+
+}
